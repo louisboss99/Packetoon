@@ -1,4 +1,4 @@
-# Splatoon-dissector
+# Packetoon
 Wireshark dissector for Splatoon UDP packet
 
 ## Packetoon (a.k.a. 実践イカパケット解析)
